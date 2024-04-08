@@ -1,0 +1,109 @@
+         
+         .btn-grad {
+            background-image: linear-gradient(to right, #ED4264 0%, #FFEDBC  51%, #ED4264  100%);
+            margin-bottom: 13px;
+            margin-top: 10px;
+            padding: 15px 15px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+          }
+
+          .btn-grad:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+         
+          .heading {
+            width: 100%;
+            text-align: left;
+          }
+
+          .heading h3{
+            display: inline;
+          }
+
+                   
+         
+          .btn-grad2 {
+            background-image: linear-gradient(to right, #43C6AC 0%, #F8FFAE  51%, #43C6AC  100%);
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+          }
+
+          .btn-grad2:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+     
+          .heading button {
+            float: right;
+            border: 1px solid whitesmoke;
+          }
+.big_image{
+    width: 100%;
+}
+
+#start,#status{
+    font-size: 22px;
+}
+
+         
+.btn-grad3 {
+    background-image: linear-gradient(to right, #FFAFBD 0%, #ffc3a0  51%, #FFAFBD  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad3:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  h4
+  {
+    background-color: aliceblue;
+    line-height:3;
+    margin:0px;
+  }
+
+  .modal-dialog
+  {
+    width: 90%;
+  }
+
+  .instruction_image
+  {
+    display: inline-block;
+    width: 45%;
+  }
+
+  video{
+    background: url('game_console.png');
+    background-size:cover;
+    background-position: center;
+    padding: 25px;
+  }
+  
